@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/CMakeLists.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Android-Inline" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Common.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/DexFile.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/DexProto.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/DvmDex.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/MSHook" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/Object.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/art.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/hook_device.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/jni" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/jnihook.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/sokect_hook.h" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
